@@ -1,4 +1,4 @@
-# Tableau DataViz Challenge - 2021
+# Tableau DataViz Challenge
 
 TABLEAU PUBLIC DASHBOARD  : "https://public.tableau.com/profile/yerravarapu.naveen.kumar#!/vizhome/RSVYanalysis/Dashboard"
 
