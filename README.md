@@ -4,6 +4,8 @@ TABLEAU PUBLIC DASHBOARD  : "https://public.tableau.com/profile/yerravarapu.nave
 
 PRESENTATION VIDEO LINK : "https://www.youtube.com/watch?v=KCYwc1im6bM"
 
+PROFILE : https://public.tableau.com/app/profile/yerravarapu.naveen.kumar/vizzes
+
    This project refers to the status of physical progress and achievement RSVY
 scheme for the district on improving agriculture productivity, addressing unemployment,
 improving social and physical infrastructure, and others for ‘Evaluation Study on Rashtriya
